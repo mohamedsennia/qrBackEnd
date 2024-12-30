@@ -1,0 +1,3 @@
+[submodule "fileToQr"]
+	path = fileToQr
+	url = https://github.com/mohamedsennia/qrFront
